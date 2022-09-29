@@ -13,15 +13,16 @@ Conda Environment Setup File:
 Project Summary Documents:
 1 - Xenel_Nazar_Capstone_Report.pdf - This is the final document that summarizes the report
 2 - Xenel_Nazar_Capstone_Presentation.pdf - This is the slide deck presented to the data science cohort
+3 - BRAINSTATION_DEMO_DAY.pdf - This is a slide deck for the BrainStation Demo Day on September 28, 2022
 
 Project Files:
-3 - Xenel_Nazar_Capstone_Notebook_1.ipynb - Data Loading and Cleaning
-4 - Xenel_Nazar_Capstone_Tableau.twb - EDA Visualizations on Data
-5 - Xenel_Nazar_Capstone_Notebook_2.ipynb - Review of Tableau Visualizations
-6 - Xenel_Nazar_Capstone_Notebook_3.ipynb - Preprocessing and EDA
-7 - Xenel_Nazar_Capstone_Notebook_4.ipynb - Modeling and Model Evaluation
+4 - Xenel_Nazar_Capstone_Notebook_1.ipynb - Data Loading and Cleaning
+5 - Xenel_Nazar_Capstone_Tableau.twb - EDA Visualizations on Data
+6 - Xenel_Nazar_Capstone_Notebook_2.ipynb - Review of Tableau Visualizations
+7 - Xenel_Nazar_Capstone_Notebook_3.ipynb - Preprocessing and EDA
+8 - Xenel_Nazar_Capstone_Notebook_4.ipynb - Modeling and Model Evaluation
 
 Other Relevant Folders:
-8 - data - Folder containing copy of data used for this capstone project. Note: Notebook downloads a copy currently hosted in Google Drive. The data folder is needed for later data cleaning and preprocessing.
-9 - visualizations - Folder containing visualizations generated from Tableau, as well as Plotly
+9 - data - Folder containing copy of data used for this capstone project. Note: Notebook downloads a copy currently hosted in Google Drive. The data folder is needed for later data cleaning and preprocessing.
+10 - visualizations - Folder containing visualizations generated from Tableau, as well as Plotly
 
